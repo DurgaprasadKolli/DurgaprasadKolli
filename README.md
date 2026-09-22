@@ -48,7 +48,6 @@ Practise an AI-augmented development workflow — leveraging Claude AI (Anthropi
 
 - LinkedIn: https://www.linkedin.com/in/durgaprasad-kolli-104078116/
 - Email: kolli.durgaprasad8000@gmail.com
-  - Location: Hyderabad, India
-   
-    - *Open to freelance and full-time opportunities in Full Stack Development.*
-    - 
+- Location: Hyderabad, India
+
+*Open to freelance and full-time opportunities in Full Stack Development.*
